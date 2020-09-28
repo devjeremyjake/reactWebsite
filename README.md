@@ -1,9 +1,11 @@
 
 ## Available Scripts
 
-## `clone react app`
-
 In the project directory, you can run:
+
+### `clone react app`
+Go to the desired folder of your choice on your local manchine through your terminal and
+type https://github.com/devjeremyjake/reactWebsite.git
 
 ### `npm start`
 
